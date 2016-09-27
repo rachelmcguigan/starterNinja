@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 24d48c8ac551244ba82fe32f2532c5f0
+timeCreated: 1474805023
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreTxt: {fileID: 114000012961977664, guid: 86e3627062eb3a54c92bc2380e187814,
+      type: 2}
+  - gameOverTxt: {fileID: 114000013130114936, guid: d498f18fe636d394485563610dfab96e,
+      type: 2}
+  - gameOverCanvas: {fileID: 223000010165534380, guid: d498f18fe636d394485563610dfab96e,
+      type: 2}
+  - VRGameOverCanvas: {fileID: 223000013347256256, guid: be7c3310148fd7d419f3c56183b3ffcc,
+      type: 2}
+  - VRGameOverTxt: {fileID: 114000013446568668, guid: be7c3310148fd7d419f3c56183b3ffcc,
+      type: 2}
+  - VRScoreTxt: {fileID: 114000011764797908, guid: c38dc60881d7dff46ad140c5f902b562,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
